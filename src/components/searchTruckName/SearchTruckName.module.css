@@ -1,0 +1,11 @@
+.customSelect {
+  width: 100px;
+  height: 20px;
+  border: 1px solid black;
+}
+
+.dropdownList {
+  width: 300px;
+  max-height: 300px;
+  overflow-y: auto;
+}

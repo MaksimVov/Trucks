@@ -1,0 +1,1172 @@
+{
+  "7": {
+    "name": "104. DAF AA 8053 TH (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "8": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 \u0410\u04108053\u0422\u041d (\u0410\u04109284\u0425\u041c)",
+    "is_lost": true,
+    "last_online": "28/07/2021, 21:10",
+    "has_current_routes": false
+  },
+  "9": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 \u0410\u04102966\u041a\u0421 (\u0410\u04106132\u0425\u0420)",
+    "is_lost": true,
+    "last_online": "11/06/2021, 14:43",
+    "has_current_routes": false
+  },
+  "10": {
+    "name": "114. DAF AA 4687 \u041e\u0420 (\u0433\u0430\u0437)",
+    "is_lost": true,
+    "last_online": "26/05/2022, 03:54",
+    "has_current_routes": true
+  },
+  "11": {
+    "name": "11. DAF KA 0163 AT (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "12": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 \u041a\u04106537\u0410\u041c (\u0410\u04103446\u0425\u041c)",
+    "is_lost": true,
+    "last_online": "30/10/2022, 15:19",
+    "has_current_routes": false
+  },
+  "13": {
+    "name": "117. DAF AA 0497 \u041e\u0420 (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "14": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 \u041a\u04106538\u0410\u0425 (\u0410\u04106191\u0425\u041e)",
+    "is_lost": true,
+    "last_online": "29/10/2022, 19:59",
+    "has_current_routes": false
+  },
+  "15": {
+    "name": "103. DAF \u0410\u0410 7240 \u041a\u0425 (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "16": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 \u0410\u04107240\u041a\u0425 (\u0410\u04108245\u0425\u041c)",
+    "is_lost": true,
+    "last_online": "01/11/2022, 21:11",
+    "has_current_routes": false
+  },
+  "17": {
+    "name": "105. DAF \u0410A 0498 OP (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:31",
+    "has_current_routes": true
+  },
+  "18": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 KA0164AI (\u0410\u04103882\u0425\u0422)",
+    "is_lost": true,
+    "last_online": "21/08/2021, 04:59",
+    "has_current_routes": false
+  },
+  "19": {
+    "name": "23. DAF \u0410\u0410 2912 CX (\u0433\u0430\u0437)",
+    "is_lost": true,
+    "last_online": "10/06/2023, 20:01",
+    "has_current_routes": false
+  },
+  "20": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 \u0410\u04102912\u0421\u0425 (\u0410\u04102459\u0425\u041a)",
+    "is_lost": true,
+    "last_online": "02/11/2022, 09:38",
+    "has_current_routes": false
+  },
+  "21": {
+    "name": "14. DAF AA7863 PT (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "22": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 AA7863PT (\u0410\u04105934\u0425\u041a)",
+    "is_lost": true,
+    "last_online": "02/11/2022, 08:13",
+    "has_current_routes": false
+  },
+  "23": {
+    "name": "13. DAF \u0410\u0410 7862 \u0420\u0422 (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "24": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 \u0410\u04107862\u0420\u0422 (\u0410\u04104966 \u0425\u041a)",
+    "is_lost": true,
+    "last_online": "01/11/2022, 18:04",
+    "has_current_routes": false
+  },
+  "25": {
+    "name": "115. DAF AA 6104 MT (\u0433\u0430\u0437)",
+    "is_lost": true,
+    "last_online": "25/05/2022, 16:17",
+    "has_current_routes": false
+  },
+  "26": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 AA2541PP (\u0410\u04103862\u0425\u0406)",
+    "is_lost": true,
+    "last_online": "02/11/2022, 09:34",
+    "has_current_routes": false
+  },
+  "27": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 \u0410\u04101953\u041e\u041d (\u0410\u04104650\u0425\u041c)",
+    "is_lost": true,
+    "last_online": "09/07/2021, 13:13",
+    "has_current_routes": false
+  },
+  "28": {
+    "name": "12. DAF \u0410\u0410 4677 \u041e\u0420 (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "29": {
+    "name": "6. DAF \u0410\u0410 6904 \u0420\u0415 (\u0433\u0430\u0437)",
+    "is_lost": true,
+    "last_online": "12/07/2023, 10:11",
+    "has_current_routes": false
+  },
+  "30": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 \u0410\u04106904\u0420\u0415 (\u0410\u04101437\u0425\u041a)",
+    "is_lost": true,
+    "last_online": "01/11/2022, 19:03",
+    "has_current_routes": false
+  },
+  "31": {
+    "name": "209. Lanos AA1385OT",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "32": {
+    "name": "206. Lanos \u0410\u0410 2567 \u041a\u0422",
+    "is_lost": true,
+    "last_online": "15/06/2023, 02:26",
+    "has_current_routes": false
+  },
+  "33": {
+    "name": "19. DAF AA 2237 PA (\u0433\u0430\u0437)",
+    "is_lost": true,
+    "last_online": "25/07/2022, 21:53",
+    "has_current_routes": false
+  },
+  "34": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 AA2237PA (\u0410\u04107278\u0425\u041c)",
+    "is_lost": true,
+    "last_online": "16/06/2022, 15:58",
+    "has_current_routes": false
+  },
+  "35": {
+    "name": "102. DAF \u0410\u0410 7879 \u041a\u0418 (\u0433\u0430\u0437)",
+    "is_lost": true,
+    "last_online": "21/06/2023, 13:52",
+    "has_current_routes": false
+  },
+  "36": {
+    "name": "101. MAN AA 8819 OI (\u0433\u0430\u0437)",
+    "is_lost": true,
+    "last_online": "28/02/2023, 23:27",
+    "has_current_routes": false
+  },
+  "37": {
+    "name": "18. DAF AA1953OH (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "38": {
+    "name": "9. DAF \u0410\u0410 2966 \u041a\u0421 (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "39": {
+    "name": "8. DAF \u0410\u0410 2965 \u041a\u0421 (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "40": {
+    "name": "7. DAF \u0410\u0410 2964 \u041a\u0421 (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": true
+  },
+  "41": {
+    "name": "210. Lanos \u0410\u0410 0383 \u041e\u0425",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "42": {
+    "name": "204. Lanos KA 8782 BB",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "43": {
+    "name": "113. \u041c\u0410\u0417 \u0410\u0412 6250 \u0410\u0410 (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "44": {
+    "name": "111. \u041c\u0410\u0417 082-31 \u0412\u0406 (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "27/06/2023, 00:37",
+    "has_current_routes": false
+  },
+  "45": {
+    "name": "212. Lanos AA 8699 OH",
+    "is_lost": true,
+    "last_online": "14/06/2023, 18:15",
+    "has_current_routes": false
+  },
+  "46": {
+    "name": "207. Lanos AA 2568 \u041a\u0422",
+    "is_lost": true,
+    "last_online": "29/06/2023, 15:02",
+    "has_current_routes": false
+  },
+  "47": {
+    "name": "112. \u041c\u0410\u0417 \u0410\u04105325\u0410\u0410 (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "23/08/2022, 20:26",
+    "has_current_routes": false
+  },
+  "48": {
+    "name": "20. DAF KA 1078 HC (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "49": {
+    "name": "213. Lanos AA 3279 \u0420\u0415",
+    "is_lost": true,
+    "last_online": "12/07/2023, 16:50",
+    "has_current_routes": false
+  },
+  "50": {
+    "name": "3. DAF AA 2541 PP (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "51": {
+    "name": "4. DAF AA 2542 PP (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "52": {
+    "name": "5. DAF AA 2543 PP (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:36",
+    "has_current_routes": false
+  },
+  "53": {
+    "name": "10. DAF AA 6605 AM (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:36",
+    "has_current_routes": false
+  },
+  "54": {
+    "name": "Volkswagen T5 \u0410\u04100554\u0422\u0410",
+    "is_lost": true,
+    "last_online": "03/07/2023, 12:08",
+    "has_current_routes": false
+  },
+  "55": {
+    "name": "208. Lanos AA3421TM",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:36",
+    "has_current_routes": false
+  },
+  "56": {
+    "name": "201. Renault AA2321\u0420\u0420",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "57": {
+    "name": "203. Lanos KA 8783 BB",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "58": {
+    "name": "108. \u0413\u0410\u0417 53 \u0410\u04102690\u0406\u0420 (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "59": {
+    "name": "21. DAF \u0410\u0410 8692 PP (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "60": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 \u0410\u04102965\u041a\u0421 (\u0410\u04100583\u0415\u041e)",
+    "is_lost": true,
+    "last_online": "21/02/2022, 17:55",
+    "has_current_routes": false
+  },
+  "61": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 \u0410\u04106605\u0410\u041c (\u0410\u04105617\u0425\u0406)",
+    "is_lost": true,
+    "last_online": "01/11/2022, 06:09",
+    "has_current_routes": false
+  },
+  "62": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430  AA2542\u0420\u0420 (\u0410\u04103295\u0415\u041e)",
+    "is_lost": true,
+    "last_online": "21/12/2021, 11:50",
+    "has_current_routes": false
+  },
+  "63": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 AA 2543PP (\u0410\u04103294\u0415\u041e)",
+    "is_lost": true,
+    "last_online": "14/04/2022, 16:53",
+    "has_current_routes": false
+  },
+  "64": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 \u0410\u04108692\u0420\u0420 (\u0410\u04102740\u0425\u0422)",
+    "is_lost": true,
+    "last_online": "02/11/2022, 09:38",
+    "has_current_routes": false
+  },
+  "65": {
+    "name": "1. DAF KA 6538 AM (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "66": {
+    "name": "2. DAF KA 6537 AM (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "67": {
+    "name": "211. Ravon KA9353AM",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "68": {
+    "name": "205. Lanos KA 3956 AX",
+    "is_lost": true,
+    "last_online": "13/07/2023, 11:18",
+    "has_current_routes": false
+  },
+  "69": {
+    "name": "17. DAF KA 3518  AX (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:36",
+    "has_current_routes": false
+  },
+  "70": {
+    "name": "16. DAF \u041a\u0410 3517 \u0410\u0425 (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": true
+  },
+  "71": {
+    "name": "15. DAF KA 3516 AX (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "72": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 \u041a\u04100163\u0410\u0422 (\u0410\u04102546\u0425\u0421)",
+    "is_lost": true,
+    "last_online": "01/11/2022, 23:25",
+    "has_current_routes": false
+  },
+  "73": {
+    "name": "22. DAF \u041aA 2796 \u0412\u0410 (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:36",
+    "has_current_routes": false
+  },
+  "74": {
+    "name": "110. \u041a\u0430\u043c\u0430\u0437 \u0410\u0412 8151 \u0412\u041d (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "13/07/2023, 11:05",
+    "has_current_routes": false
+  },
+  "75": {
+    "name": "46. DAF AB 0317 IK (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "76": {
+    "name": "\u0411\u043e\u0447\u043a\u0430 \u0437\u0430 \u041a\u04102796\u0412\u0410 (\u0410\u04102579\u0425\u0421)",
+    "is_lost": true,
+    "last_online": "02/11/2022, 09:38",
+    "has_current_routes": false
+  },
+  "77": {
+    "name": "24. DAF AA 8052 TH (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "78": {
+    "name": "107. SCANIA \u0410\u0410 4571 \u0406\u0410 (\u0433\u0430\u0437)",
+    "is_lost": true,
+    "last_online": "11/03/2023, 09:18",
+    "has_current_routes": false
+  },
+  "79": {
+    "name": "106. Mercedes \u0410\u0410 8916 \u041a\u0420 (\u0433\u0430\u0437)",
+    "is_lost": true,
+    "last_online": "24/10/2022, 11:57",
+    "has_current_routes": false
+  },
+  "80": {
+    "name": "214. Lanos \u0410\u0410 1342 \u041e\u0421",
+    "is_lost": true,
+    "last_online": "04/05/2022, 08:21",
+    "has_current_routes": false
+  },
+  "81": {
+    "name": "100. DAF \u0410\u0410 7933 \u0412\u041e (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "82": {
+    "name": "200. KIA \u041a\u04104643\u0412\u041e",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": true
+  },
+  "83": {
+    "name": "109. \u0417\u0456\u043b 30 \u0410\u04108905\u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "27/04/2023, 18:10",
+    "has_current_routes": false
+  },
+  "84": {
+    "name": "35. DAF \u041a\u0410 9230 \u041d\u0421 (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "85": {
+    "name": "34. DAF \u041a\u0410 9215 \u041d\u0421 (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "86": {
+    "name": "33. DAF \u041a\u0410 9214 \u041d\u0421 (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "87": {
+    "name": "32. DAF \u041a\u0410 9213 \u041d\u0421 (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "88": {
+    "name": "28. DAF AB 8149 IM (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:30",
+    "has_current_routes": false
+  },
+  "89": {
+    "name": "29. DAF \u0410\u0412 3905 \u0406\u041a (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": true
+  },
+  "90": {
+    "name": "31. DAF \u0410\u0412 4106 \u0406\u041a (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "91": {
+    "name": "27. DAF AB 3816 IM (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "92": {
+    "name": "30. DAF \u0410\u0412 8130 \u0406\u041c (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "93": {
+    "name": "25. DAF AB 3628 IK (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "94": {
+    "name": "26. DAF AB 3629 IK (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "95": {
+    "name": "36. DAF AB 1851 AP (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": true
+  },
+  "96": {
+    "name": "99. DAF \u0410\u0412 4718 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": true
+  },
+  "97": {
+    "name": "37. DAF AB 1852 IP (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "11/07/2023, 09:08",
+    "has_current_routes": false
+  },
+  "98": {
+    "name": "39. DAF \u041a\u0410 5032 \u0406\u0412 (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": true
+  },
+  "99": {
+    "name": "42. DAF AB 8938 IO (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "100": {
+    "name": "45. DAF \u0410\u0412 8120 \u0406\u041c (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "101": {
+    "name": "41. DAF AB 7435 \u0406\u041e (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "102": {
+    "name": "40. DAF \u0410\u0412 7433 \u0406\u041e (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "12/07/2023, 06:30",
+    "has_current_routes": false
+  },
+  "103": {
+    "name": "43. DAF \u0410\u0412 8965 \u0406\u041e (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "104": {
+    "name": "44. Renault \u0410\u0412 8985 \u0406\u0420 (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "13/07/2023, 05:31",
+    "has_current_routes": false
+  },
+  "105": {
+    "name": "56. DAF \u0410\u0412 3691 \u0406\u0422 (\u0433\u0430\u0437)",
+    "is_lost": true,
+    "last_online": "19/06/2023, 19:01",
+    "has_current_routes": false
+  },
+  "106": {
+    "name": "54. DAF \u0410\u0412 0215 \u0406\u0421 (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "107": {
+    "name": "47. DAF AB 1514 IO (\u0433\u0430\u0437)",
+    "is_lost": true,
+    "last_online": "13/07/2023, 07:57",
+    "has_current_routes": false
+  },
+  "108": {
+    "name": "55. DAF \u0410\u0412 0385 \u0406\u041a (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "109": {
+    "name": "51. DAF \u0410\u0412 7085 \u0406\u041e (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "110": {
+    "name": "57. DAF \u0410\u0412 7239 \u0406\u041e (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "111": {
+    "name": "53. DAF \u0410\u0412 0391 \u0406\u041a (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "112": {
+    "name": "49. DAF AB 4771 IT (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "11/07/2023, 14:39",
+    "has_current_routes": false
+  },
+  "113": {
+    "name": "50. DAF AB 3678 IT (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "114": {
+    "name": "48. DAF AB 4770 IT (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "115": {
+    "name": "58. DAF AB 6473 IT (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "13/07/2023, 08:13",
+    "has_current_routes": false
+  },
+  "116": {
+    "name": "61. DAF AB 9233 IT (\u0433\u0430\u0437)",
+    "is_lost": true,
+    "last_online": "13/07/2023, 02:28",
+    "has_current_routes": false
+  },
+  "117": {
+    "name": "60. DAF AB 9231 IT (\u0433\u0430\u0437)",
+    "is_lost": true,
+    "last_online": "12/07/2023, 09:42",
+    "has_current_routes": false
+  },
+  "118": {
+    "name": "68. DAF \u0410\u0412 9726 \u0406\u0420",
+    "is_lost": true,
+    "last_online": "11/07/2023, 06:32",
+    "has_current_routes": false
+  },
+  "119": {
+    "name": "62. DAF \u0410\u0412 9234 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "120": {
+    "name": "59. DAF AB 9230 IT (\u0433\u0430\u0437)",
+    "is_lost": true,
+    "last_online": "25/01/2023, 10:41",
+    "has_current_routes": false
+  },
+  "121": {
+    "name": "67. DAF \u0410\u0412 9504 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "122": {
+    "name": "64. DAF \u0410\u0412 6452 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "08/07/2023, 21:10",
+    "has_current_routes": false
+  },
+  "123": {
+    "name": "217. VW Caddy 7350",
+    "is_lost": true,
+    "last_online": "14/07/2022, 18:30",
+    "has_current_routes": false
+  },
+  "124": {
+    "name": "215. VW Caddy AB 0152 IT",
+    "is_lost": true,
+    "last_online": "13/07/2023, 12:12",
+    "has_current_routes": false
+  },
+  "125": {
+    "name": "216. VW Caddy AB 0153 IT",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "126": {
+    "name": "52. DAF \u0410\u0412 0318 IK (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "127": {
+    "name": "63. DAF \u0410\u0412 6451 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "11/07/2023, 20:35",
+    "has_current_routes": false
+  },
+  "128": {
+    "name": "65. DAF \u0410\u0412 6456 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "08/07/2023, 08:47",
+    "has_current_routes": true
+  },
+  "129": {
+    "name": "66. DAF \u0410\u0412 7763 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "130": {
+    "name": "89. DAF \u0410\u0412 5736 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": true
+  },
+  "131": {
+    "name": "76. DAF \u0410\u0412 9564 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "06/07/2023, 23:49",
+    "has_current_routes": true
+  },
+  "132": {
+    "name": "86. DAF \u0410\u0412 7291 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "09/07/2023, 21:25",
+    "has_current_routes": true
+  },
+  "133": {
+    "name": "88. DAF \u0410\u0412 5726 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "11/07/2023, 18:39",
+    "has_current_routes": false
+  },
+  "134": {
+    "name": "87. DAF \u0410\u0412 1276 \u0406\u0422",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "135": {
+    "name": "90. DAF \u0410\u0412 5746 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "09/07/2023, 12:05",
+    "has_current_routes": false
+  },
+  "136": {
+    "name": "75. DAF AB 9562 IT (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "137": {
+    "name": "97. DAF AB 5063 IT (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "09/07/2023, 22:05",
+    "has_current_routes": false
+  },
+  "138": {
+    "name": "80. DAF AB 9877 IP (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "09/07/2023, 22:05",
+    "has_current_routes": false
+  },
+  "139": {
+    "name": "73. DAF AB 9560 IT (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": true
+  },
+  "140": {
+    "name": "77. DAF AB 9566 IT (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "141": {
+    "name": "72. DAF AB 5862 IT (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "142": {
+    "name": "70. DAF AB 5823 IT (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "143": {
+    "name": "74. DAF AB 9561 IT (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "09/07/2023, 22:00",
+    "has_current_routes": false
+  },
+  "144": {
+    "name": "83. DAF \u0410\u0412 4462 \u0406\u0422 (\u0433\u0430\u0437)",
+    "is_lost": true,
+    "last_online": "13/07/2023, 01:32",
+    "has_current_routes": false
+  },
+  "145": {
+    "name": "78. DAF AB 9574 IT",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "146": {
+    "name": "91. DAF \u0410\u0412 0592 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "08/07/2023, 21:09",
+    "has_current_routes": false
+  },
+  "147": {
+    "name": "71. DAF AB 5861 IT (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "148": {
+    "name": "81. DAF AB 9878 IP",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": true
+  },
+  "149": {
+    "name": "79. DAF AB 9876 IP",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "150": {
+    "name": "69. DAF AB 5821 IT (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "151": {
+    "name": "93. DAF \u0410\u0412 0596 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "152": {
+    "name": "94. DAF \u0410\u0412 0597 \u0406\u0422",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "153": {
+    "name": "85. DAF \u0410\u0412 4467 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "154": {
+    "name": "84. DAF \u0410\u0412 4465 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "08/07/2023, 21:10",
+    "has_current_routes": false
+  },
+  "155": {
+    "name": "92. DAF \u0410\u0412 0593 \u0406\u0422 (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "156": {
+    "name": "116. DAF AA 0496 OP (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "29/04/2023, 12:28",
+    "has_current_routes": false
+  },
+  "157": {
+    "name": "82. DAF \u0410\u0412 4905 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "08/07/2023, 12:25",
+    "has_current_routes": false
+  },
+  "158": {
+    "name": "96. DAF \u0410\u0412 4907 \u0406\u0422 (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "159": {
+    "name": "95. DAF \u0410\u0412 4906 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": true,
+    "last_online": "09/07/2023, 11:58",
+    "has_current_routes": false
+  },
+  "160": {
+    "name": "98. DAF \u0410\u0412 4719 \u0406\u0422 (\u0431\u0435\u043d\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "161": {
+    "name": "DAF AB 3826 KA",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": true
+  },
+  "162": {
+    "name": "DAF 67-BDR-5",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "163": {
+    "name": "DAF 69-BDS-2",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:36",
+    "has_current_routes": false
+  },
+  "164": {
+    "name": "DAF AB 3104 IX",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:36",
+    "has_current_routes": false
+  },
+  "165": {
+    "name": "05-BDT-8",
+    "is_lost": true,
+    "last_online": "01/02/2023, 09:00",
+    "has_current_routes": false
+  },
+  "166": {
+    "name": "AB2851KA",
+    "is_lost": true,
+    "last_online": "09/01/2023, 10:55",
+    "has_current_routes": false
+  },
+  "167": {
+    "name": "167. DAF \u0410\u0412 2637 \u0406\u0422",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "168": {
+    "name": "106. DAF AB 9085 EI (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "169": {
+    "name": "356078111451312",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "170": {
+    "name": "109. DAF \u0410\u0412 2635 \u0406\u0422 (\u0413\u0410\u0417)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "171": {
+    "name": "356078111442626",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "172": {
+    "name": "108. DAF \u0410\u0412 9084 \u0415I",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "173": {
+    "name": "\u041e\u0444\u0438\u0441",
+    "is_lost": true,
+    "last_online": "14/02/2023, 11:16",
+    "has_current_routes": false
+  },
+  "174": {
+    "name": "AA 5934 KX (\u0431\u043e\u0447\u043a\u0430) \u0422\u044f\u0433\u0430\u0447 \u0410\u04107863\u0420\u0422",
+    "is_lost": true,
+    "last_online": "30/06/2023, 17:41",
+    "has_current_routes": false
+  },
+  "175": {
+    "name": "112. DAF \u0410\u0412 6973 \u041a\u0410",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "176": {
+    "name": "113. DAF \u0410\u0412 6978 \u041a\u0410 (\u0413\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "186": {
+    "name": "102. DAF AB 2851 KA",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "187": {
+    "name": "107. DAF AB 2584 KA (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "190": {
+    "name": "121. DAF AB 0534 KB",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "191": {
+    "name": "115. DAF AB 9257 KA",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "192": {
+    "name": "120. DAF AB 9021 IX",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "193": {
+    "name": "118. DAF AB6238IX (\u0413\u0410\u0417)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "194": {
+    "name": "116. DAF AB 9173 KA (\u0413\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "195": {
+    "name": "114. DAF AB 6981 KA",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "196": {
+    "name": "355234055733808 \u0440\u0435\u043c\u043e\u043d\u0442",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "197": {
+    "name": "117. DAF AB 3622 IX",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "198": {
+    "name": "119. DAF AB 6367 IX",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "199": {
+    "name": "122. DAF AB 6596 KE (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "200": {
+    "name": "352353083465291",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "201": {
+    "name": "356078111469843",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "202": {
+    "name": "356078111324436",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "203": {
+    "name": "352353087704737",
+    "is_lost": true,
+    "last_online": "06/03/2023, 10:36",
+    "has_current_routes": false
+  },
+  "204": {
+    "name": "356078116268885",
+    "is_lost": true,
+    "last_online": "13/03/2023, 10:24",
+    "has_current_routes": false
+  },
+  "205": {
+    "name": "356078111392045",
+    "is_lost": true,
+    "last_online": "13/03/2023, 10:20",
+    "has_current_routes": false
+  },
+  "206": {
+    "name": "356078116277407",
+    "is_lost": true,
+    "last_online": "13/03/2023, 10:26",
+    "has_current_routes": false
+  },
+  "207": {
+    "name": "156. DAF AB 1605 \u0406X",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "208": {
+    "name": "127. DAF \u0410\u0412 8163 \u041a\u0412",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "209": {
+    "name": "128. DAF AB 9556 KB (\u0433\u0430\u0437)",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "210": {
+    "name": "129. DAF \u0410\u0412 8164 \u041a\u0412",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:34",
+    "has_current_routes": false
+  },
+  "211": {
+    "name": "130. DAF \u0410\u0412 9826 \u041aE",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  },
+  "212": {
+    "name": "219. \u0160koda Octavia \u041a\u04103945\u0406\u0422",
+    "is_lost": false,
+    "last_online": "13/07/2023, 15:35",
+    "has_current_routes": false
+  }
+}
