@@ -5,7 +5,9 @@ import trucks from '../../trucks.json';
 
 export class SearchTruckName extends Component {
   state = {
+    trucks: Object.values(trucks),
     isOpen: false,
+    filter: '',
   };
 
   toggleList = () => {
@@ -18,18 +20,35 @@ export class SearchTruckName extends Component {
     e.stopPropagation();
   };
 
+  handleFilterChange = e => {
+    const filterValue = e.target.value.toLowerCase();
+
+    const filteredTrucks = Object.values(trucks).filter(truck =>
+      truck.name.toLowerCase().includes(filterValue)
+    );
+
+    this.setState({
+      filter: filterValue,
+      trucks: filteredTrucks,
+    });
+  };
+
   render() {
-    const { isOpen } = this.state;
+    const { isOpen, trucks } = this.state;
 
     return (
       <div className={styles.customSelect} onClick={this.toggleList}>
         ------
         {isOpen && (
           <ul className={styles.dropdownList} onClick={this.handleItemClick}>
-            <li>
-              <input type="text" />
+            <li className={styles.dropdownItem}>
+              <input
+                className={styles.filterTruck}
+                type="text"
+                onChange={this.handleFilterChange}
+              />
             </li>
-            <TruckList trucks={trucks} />
+            <TruckList onFilterChange={trucks} />
           </ul>
         )}
       </div>

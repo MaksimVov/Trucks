@@ -1,0 +1,11 @@
+.dropdownItem {
+  height: 30px;
+
+  display: flex;
+  align-items: center;
+}
+
+.dropdownItem:hover {
+  background-color: #3d67ff;
+  color: #ffffff;
+}
