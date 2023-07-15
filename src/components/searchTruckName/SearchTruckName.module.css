@@ -1,45 +1,17 @@
-/* .customSelect {
-  width: auto;
-  height: 30px;
-  border: 1px solid black;
-}
-
-.dropdownList {
-  width: auto;
-  max-height: 300px;
-  overflow-y: auto;
-}
-
-.dropdownItem {
-  width: auto;
-}
-
-.filterTruck {
-  width: 1300px;
-} */
-
-/* SearchTruckName.module.css */
-/* SearchTruckName.module.css */
-
-/* SearchTruckName.module.css */
-
 .customSelect {
   height: 30px;
   border: 1px solid #cccccc;
 }
 
 .dropdownList {
-  top: 300px;
-  left: 0;
   background-color: #ffffff;
   border: 1px solid #cccccc;
   border-top: none;
   list-style-type: none;
   padding: 10px;
-}
+  margin-top: 13px;
 
-.dropdownItem {
-  padding: 10px;
+  box-sizing: border-box;
 }
 
 .filterTruck {
@@ -48,6 +20,9 @@
   border: 1px solid #cccccc;
   border-radius: 4px;
   margin: 0 auto;
+  box-sizing: border-box;
+
+  margin-bottom: 10px;
 }
 
 .dropdownList {
