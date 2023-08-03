@@ -1,9 +1,7 @@
 import { Routes, Route } from 'react-router-dom';
 import { Layout } from './layout/Layout';
 import styles from '../styles.css';
-import { lazy } from 'react';
-
-const TruckPage = lazy(() => import('page/TruckPage'));
+import TruckPage from 'page/TruckPage';
 
 export const App = () => {
   return (
