@@ -6,10 +6,10 @@ export const List = ({ onList, onClick }) => {
   const listValues = Object.values(onList);
 
   return listValues.map(({ name }, index) => (
-    <li className={styles.dropdownItem} key={listKeys[index]} onClick={onClick}>
-      <Link key={index} to={`${name}`}>
+    <Link key={index} to={`${name}`} onClick={onClick}>
+      <li className={styles.dropdownItem} key={listKeys[index]}>
         {name}
-      </Link>
-    </li>
+      </li>
+    </Link>
   ));
 };
