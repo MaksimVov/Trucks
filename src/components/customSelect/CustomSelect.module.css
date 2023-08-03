@@ -1,6 +1,10 @@
 .customSelect {
   height: 30px;
   border: 1px solid #cccccc;
+  position: relative;
+
+  border-radius: 5px;
+  margin-bottom: 15px;
 }
 
 .dropdownList {
@@ -12,9 +16,11 @@
   margin-top: 13px;
 
   box-sizing: border-box;
+  position: relative;
+  z-index: 2;
 }
 
-.filterTruck {
+.filterList {
   width: 100%;
   height: 30px;
   border: 1px solid #cccccc;

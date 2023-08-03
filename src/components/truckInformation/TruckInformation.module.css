@@ -1,0 +1,30 @@
+.truckInformation {
+  display: flex;
+  flex-direction: column;
+}
+
+.titleTruckName {
+  margin: 0 auto;
+  color: #118a29;
+}
+
+.titleTruckNameLost {
+  margin: 0 auto;
+  color: #ad1827;
+}
+.truckInformationList {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  gap: 30px;
+  padding: 10px;
+}
+
+.truckInformationItem {
+  width: 450px;
+  height: 300px;
+
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+}

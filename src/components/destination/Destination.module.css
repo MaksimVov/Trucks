@@ -1,0 +1,14 @@
+.text {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.btnSubmit {
+  width: 70px;
+  height: 35px;
+
+  background-color: #3d5aff;
+  color: #ffffff;
+
+  border: none;
+}

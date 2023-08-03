@@ -1,14 +1,19 @@
-import React, { Component } from 'react';
-import { SearchTruckName } from './searchTruckName/SearchTruckName';
+import { Routes, Route } from 'react-router-dom';
+import { Layout } from './layout/Layout';
 import styles from '../styles.css';
+import TruckPage from 'page/TruckPage';
+import { lazy } from 'react';
 
-export class App extends Component {
-  render() {
-    return (
-      <div className={styles.container}>
-        <p>Виберіть вантажівку.</p>
-        <SearchTruckName />
-      </div>
-    );
-  }
-}
+// сonst Home = lazy(() => import)
+
+export const App = () => {
+  return (
+    <div className={styles.container}>
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route path="/:truckPage" element={<TruckPage />} />
+        </Route>
+      </Routes>
+    </div>
+  );
+};
