@@ -4,7 +4,7 @@ import { getTrucks } from 'services/services';
 import { CustomSelect } from 'components/customSelect/СustomSelect';
 
 export const Layout = () => {
-  const [arrTrucks, setArrTrucks] = useState(getTrucks());
+  const [arrTrucks] = useState(getTrucks());
 
   return (
     <>
