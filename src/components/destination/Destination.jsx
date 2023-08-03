@@ -1,4 +1,3 @@
-import { GoogleMap, LoadScript, Marker } from '@react-google-maps/api';
 import { CustomSelect } from 'components/customSelect/СustomSelect';
 import styles from './Destination.module.css';
 
