@@ -1,7 +1,10 @@
 import { Routes, Route } from 'react-router-dom';
+import { lazy } from 'react';
 import { Layout } from './layout/Layout';
 import styles from '../styles.css';
-import TruckPage from 'page/TruckPage';
+// import TruckPage from 'page/TruckPage';
+
+const TruckPage = lazy(() => import('page/TruckPage'));
 
 export const App = () => {
   return (

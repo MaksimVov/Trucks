@@ -1,5 +1,5 @@
 import { Outlet } from 'react-router-dom';
-import { useState } from 'react';
+import { useState, Suspense } from 'react';
 import { getTrucks } from 'services/services';
 import { CustomSelect } from 'components/customSelect/СustomSelect';
 
@@ -14,7 +14,11 @@ export const Layout = () => {
         onNameList={'truckId'}
         onText={'------'}
       />
-      <Outlet />
+      <Suspense fallback={<div>Loading...</div>}>
+        <main>
+          <Outlet />
+        </main>
+      </Suspense>
     </>
   );
 };
